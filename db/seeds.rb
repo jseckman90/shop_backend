@@ -7,4 +7,6 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-user = User.create(username: "test", password: "test")
+# user = User.create(username: "test", password: "test")
+
+Product.create(name:"tumbler", description:"stainless steel tumbler with dot art", img:"https://mobileimages.lowes.com/product/converted/888830/888830021811.jpg", qty:24, price: 64.99)
