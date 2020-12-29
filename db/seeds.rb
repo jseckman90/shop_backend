@@ -23,11 +23,11 @@ Product.create(name:"Chicago Cubs - 20oz Tumbler", description:"Custom 20oz Stai
 
 Product.create(name:"Multi-Color 32oz Water Bottle", description:"Custom stainless Steel water bottle with multi-color dot art mandalas surrounding the entire bottle", img:"https://i.imgur.com/G9oCpYl.jpg", price: 59.99, qty:24)
 
-Product.create(name:"Sunflower - 20ooz Tumbler", description:"Custom 20oz Stainless Steel Tumbler with Lid.  This tumbler has a custom dot art sunflower design", img:"https://i.imgur.com/UCFj7Zb.jpg", price: 59.99, qty:24)
+Product.create(name:"Sunflower - 20oz Tumbler", description:"Custom 20oz Stainless Steel Tumbler with Lid.  This tumbler has a custom dot art sunflower design", img:"https://i.imgur.com/UCFj7Zb.jpg", price: 59.99, qty:24)
 
-Product.create(name:"Florida Gators - 20ooz Tumbler", description:"Custom 20oz Stainless Steel Tumbler with Lid.  This tumbler has a custom dot art Florida Gators Logo", img:"https://i.imgur.com/DYCCKVD.jpg", price: 59.99, qty:24)
+Product.create(name:"Florida Gators - 20oz Tumbler", description:"Custom 20oz Stainless Steel Tumbler with Lid.  This tumbler has a custom dot art Florida Gators Logo", img:"https://i.imgur.com/DYCCKVD.jpg", price: 59.99, qty:24)
 
-Product.create(name:"Ocean Sunset - 20ooz Tumbler", description:"Custom 20oz Stainless Steel Tumbler with Lid.  This tumbler has a custom dot art Ocean Sunset design", img:"https://i.imgur.com/uE4QbNY.jpg", price: 59.99, qty:24)
+Product.create(name:"Ocean Sunset - 20oz Tumbler", description:"Custom 20oz Stainless Steel Tumbler with Lid.  This tumbler has a custom dot art Ocean Sunset design", img:"https://i.imgur.com/uE4QbNY.jpg", price: 59.99, qty:24)
 
 Product.create(name:"Sand Dollar - 12oz Wine Tumbler", description:"Custom 12oz Stainless Steel Wine Tumbler with Lid.  This tumbler has a custom dot art Sand Dollar design", img:"https://i.imgur.com/1Jfyxs6.jpg", price: 59.99, qty:24)
 
