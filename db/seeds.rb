@@ -16,11 +16,31 @@ user = User.create(username: "test", password: "test")
 ##################################
 ########### PRODUCTS #############
 ##################################
-Product.create(name:"tumbler navy", description:"stainless steel tumbler - navy", img:"https://mobileimages.lowes.com/product/converted/888830/888830040713.jpg?size=pdhi", price: 64.99, qty:24)
-Product.create(name:"tumbler black", description:"stainless steel tumbler - black", img:"https://mobileimages.lowes.com/product/converted/888830/888830021835.jpg?size=pdhi", price: 54.99, qty:24)
-Product.create(name:"tumbler seafoam", description:"stainless steel tumbler - seafoam", img:"https://mobileimages.lowes.com/product/converted/888830/888830021811.jpg?size=pdhi", price: 39.99, qty:24)
-Product.create(name:"tumbler coral", description:"stainless steel tumbler - coral", img:"http://mobileimages.lowes.com/product/converted/888830/888830040683_14617813.jpg?size=pdhi", price: 59.99, qty:24)
-Product.create(name:"tumbler green", description:"stainless steel tumbler - green", img:"http://mobileimages.lowes.com/product/converted/888830/888830080085_15833913.jpg?size=pdhi", price: 49.99, qty:24)
-Product.create(name:"tumbler graphite", description:"stainless steel tumbler with - graphite", img:"http://mobileimages.lowes.com/product/converted/888830/888830076224_16243709.jpg?size=pdhi", price: 39.99, qty:24)
-Product.create(name:"tumbler copper", description:"stainless steel tumbler - copper", img:"http://mobileimages.lowes.com/product/converted/888830/888830075838_16243699.jpg?size=pdhi", price: 29.99, qty:24)
+
+
+
+Product.create(name:"Chicago Cubs - 20oz Tumbler", description:"Custom 20oz Stainless Steel Tumbler with Lid.  This tumbler has a custom Chicago Cubs dot art design with pinstripes around the entire tumbler", img:"https://i.imgur.com/4HKGzwv.jpg", price: 59.99, qty:24)
+
+Product.create(name:"Multi-Color 32oz Water Bottle", description:"Custom stainless Steel water bottle with multi-color dot art mandalas surrounding the entire bottle", img:"https://i.imgur.com/G9oCpYl.jpg", price: 59.99, qty:24)
+
+Product.create(name:"Sunflower - 20ooz Tumbler", description:"Custom 20oz Stainless Steel Tumbler with Lid.  This tumbler has a custom dot art sunflower design", img:"https://i.imgur.com/UCFj7Zb.jpg", price: 59.99, qty:24)
+
+Product.create(name:"Florida Gators - 20ooz Tumbler", description:"Custom 20oz Stainless Steel Tumbler with Lid.  This tumbler has a custom dot art Florida Gators Logo", img:"https://i.imgur.com/DYCCKVD.jpg", price: 59.99, qty:24)
+
+Product.create(name:"Ocean Sunset - 20ooz Tumbler", description:"Custom 20oz Stainless Steel Tumbler with Lid.  This tumbler has a custom dot art Ocean Sunset design", img:"https://i.imgur.com/uE4QbNY.jpg", price: 59.99, qty:24)
+
+Product.create(name:"Sand Dollar - 12oz Wine Tumbler", description:"Custom 12oz Stainless Steel Wine Tumbler with Lid.  This tumbler has a custom dot art Sand Dollar design", img:"https://i.imgur.com/1Jfyxs6.jpg", price: 59.99, qty:24)
+
+Product.create(name:"Cleveland Browns - 20oz Tumbler", description:"Custom 20oz Stainless Steel Tumbler with Lid.  This tumbler has a custom dot art Cleveland Browns Elf design", img:"https://i.imgur.com/8drpuWj.jpg", price: 59.99, qty:24)
+
+Product.create(name:"Ohio State Buckeyes - 20oz Tumbler", description:"Custom 20oz Stainless Steel Tumbler with Lid.  This tumbler has a custom dot art Ohio State Logo design and buckeyes", img:"https://i.imgur.com/hOC98AC.jpg", price: 59.99, qty:24)
+
+Product.create(name:"Watermelon - 20oz Tumbler", description:"Custom 20oz Stainless Steel Tumbler with Lid.  This tumbler has a custom dot art watermelon mandala design", img:"https://i.imgur.com/ZH4gCju.jpg", price: 59.99, qty:24)
+
+Product.create(name:"Poppy - 20oz Tumbler", description:"Custom 20oz Stainless Steel Tumbler with Lid.  This tumbler has a custom dot art poppy design ", img:"https://i.imgur.com/bF4LmmQ.jpg", price: 59.99, qty:24)
+
+Product.create(name:"Dirty Heads - 32oz Water Bottle", description:"Custom stainless Steel water bottle with a dot art Dirty Heads logo design", img:"https://i.imgur.com/WERgact.jpg", price: 59.99, qty:24)
+
+Product.create(name:"Name - 32oz Water Bottle", description:"Custom stainless Steel water bottle with a dot art mandala and vinyl name", img:"https://i.imgur.com/AX6MVMA.jpg", price: 59.99, qty:24)
+
 
