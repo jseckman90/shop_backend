@@ -10,7 +10,7 @@
 ##################################
 ############# USERS ##############
 ##################################
-user = User.create(username: "test", password: "test")
+# user = User.create(username: "test", password: "test")
 
 
 ##################################
