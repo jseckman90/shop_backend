@@ -10,7 +10,9 @@ An eCommerce store for the Studio SixTwo Boutique
 JavaScript - 
 React.js - 
 Ruby on Rails - 
+PostgreSQL - 
 Material-UI
+
 
 ## Future additions
 - Integrate Stripe or Paypal API for checkout
