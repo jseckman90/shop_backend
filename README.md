@@ -1,24 +1,17 @@
-# README
+# Studio SixTwo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# URL: 
 
-Things you may want to cover:
+https://silly-wilson-57fd79.netlify.app/
+## Studio SixTwo
+An eCommerce store for the Studio SixTwo Boutique
 
-* Ruby version
+## Technologies Used
+JavaScript - 
+React.js - 
+Ruby on Rails - 
+Material-UI
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Future additions
+- Integrate Stripe or Paypal API for checkout
+- Email confirmation to user when order is placed
